@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Android Whiteboard</string>
+    <string name="home_screen__title">Rick &amp; Morty Finder App</string>
+    <string name="button__characters">Characters</string>
+    <string name="button__locations">Locations</string>
+    <string name="button__episodes">Episodes</string>
+    <string name="button__load_more">Load More</string>
+    <string name="character_screen__origin">Origin</string>
+    <string name="character_screen__location">Current Location</string>
+    <string name="location_screen__type">Type: %1$s</string>
+    <string name="location_screen__dimension">Dimension: %1$s</string>
+    <string name="location_screen__residents">Residents</string>
+    <string name="episode_screen__air_date">Air Date: %1$s</string>
+    <string name="episode_screen__episode">Episode: %1$s</string>
+</resources>
